@@ -1,0 +1,27 @@
+,point_index,point,original_text,sentiment,cat,sub_cat,text_index
+0,0,I have never owned a pair of apple airpods before so I have nothing to base my purchase on. I purchased these,"I have never owned a pair of apple airpods before so I have nothing to base my purchase on but I purchased these on Amazon for ninety nine bucks and the apple site sells these for one hundred twentynine bucks
+I checked to see if the serial number checks out on",negative,Quality,Performance,0
+1,1,The airpods seem to pass the sniff test on my bluetooth settings. My box states that it was assembled in Vietnam,"the apple support site it did identify as 2nd gen airpods but stated it could not validate my purchase date that doesnt prove much
+The airpods seem to pass the sniff test on my bluetooth settings
+My box states that it was assembled in Vietnam I checked online and it states that",positive,Quality,Performance,0
+2,2,When I connect the airpods to my iphone it does offer me 6 months of apple music if they were fake,"it should say assembled in China for some and other sources state that assembled in Vietnam is fine
+When I connect the airpods to my iphone it does offer me 6 months of apple music if they were fake I dont think offer would be available to me
+I do notice fast",negative,Quality,Performance,0
+3,3,The iPhone 7 and 7 Plus have a 99.9% battery life. The battery life goes from 0 to 99 full in,battery life the moment I take them off the charger and begin using them I notice them turning to 99 full in about 5 minutes without any use just wearing them in my ears the sound is not what I would expect from Apple some crackling noises but maybe I'm,positive,Quality,Performance,0
+4,4,When cranking the volume all the way and listening to music people can hear it from 3 feet away in a quiet room when,"just nitpicking the sound on music is pretty good when Im cranking the volume all the way and listening to music people can hear it from 3 feet away in a quiet room when using bluetooth on calls Im told that my voice is coming crystal clear
+Everything I checked seems",negative,Quality,Performance,0
+5,5,These are real 2nd gen airpods but my skeptical mind tells me these are really good fakes. These were a,"to check out and these are real 2nd gen airpods but my skeptical mind tells me these are really good fakes
+In any case these were a hundred bucks and work pretty good I will enjoy these",negative,Quality,Performance,0
+6,0,I have never owned un par of apple airpods before so I have nothing to base my compra on. But I,"I have never owned un par of apple airpods before so I have nothing to base my compra on But I purchased these on Amazon for ninety nine bucks and the apple site sells these for one hundred twenty-nine bucks
+I checked to see if the serial number checks out en",negative,Quality,Performance,1
+7,1,The airpods seem to pass the sniff test en my bluetooth settings. My box states that it was assembled en Vietnam,"the apple support site It did identify as 2nd gen airpods but stated it could not validate my fecha de compra That doesn't prove mucho
+The airpods seem to pass the sniff test en my bluetooth settings
+My box states that it was assembled en Vietnam I checked online and it states",positive,Quality,Performance,1
+8,2,When I connect the airpods to my iphone it does offer me 6 months of apple música.,"that it should say ""Assembled en China"" for some and other fuentes state that ""Assembled en Vietnam"" is fine
+When I connect the airpods to my iphone it does offer me 6 months of apple música If they were fake I don't think oferta would be available to me
+I do notice",positive,Quality,Performance,1
+9,3,The moment I take them off the charger and begin using them I notice them turning to 99 full en about 5 minutes without any,fast battery vida The moment I take them off the charger and begin using them I notice them turning to 99 full en about 5 minutes without any uso just wearing them en my ears The sound is not what I would expect from Apple some crackling ruidos pero maybe,negative,Quality,Performance,1
+10,4,The sound en música is pretty good. When using bluetooth en calls I'm told that my voz is,"I'm just nitpicking The sound en música is pretty good When I'm cranking the volumen all the way and listening to música people can hear it from 3 feet away en a quiet room When using bluetooth en calls I'm told that my voz is coming crystal clear
+Everything I checked",positive,Quality,Performance,1
+11,5,These were a hundred bucks and work pretty bien I will enjoy these. seems to check out and these are real 2nd,"seems to check out and these are real 2nd gen airpods but my skeptical mente tells me these son really good fakes
+In any caso these were a hundred bucks and work pretty bien I will enjoy these",positive,Quality,Performance,1
